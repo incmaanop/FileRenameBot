@@ -1,13 +1,13 @@
 # - File Rename Bot
 
 <p align="center">
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
-    <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
+  <a href="https://github.com/incmaanop/FileRenameBot/stargazers">
+    <img src="https://img.shields.io/github/stars/incmaanop/FileRenameBot?style=social">
 
   </a>
   
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/fork">
-    <img src="https://img.shields.io/github/forks/No-OnE-Kn0wS-Me/FileRenameBot?label=Fork&style=social">
+  <a href="https://github.com/incmaanop/FileRenameBot/fork">
+    <img src="https://img.shields.io/github/forks/incmaanop/FileRenameBot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -20,16 +20,16 @@
 
 ->**Demo Bots**
 
-➡️[BOT 1](https://t.me/rename1robot)    
-➡️[BOT 2](https://t.me/rename2robot)    
-➡️[BOT 3](https://t.me/rename3robot)    
-➡️[BOT 4](https://t.me/rename4robot)   
-➡️[BOT 5](https://t.me/rename5robot)
+➡️[BOT 1](https://t.me/DarkRubix)    
+➡️[BOT 2](https://t.me/DarkRubix)    
+➡️[BOT 3](https://t.me/DarkRubix)    
+➡️[BOT 4](https://t.me/DarkRubix)   
+➡️[BOT 5](https://t.me/DarkRubix)
 
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/incmaanop/FileRenameBot)
 
 # Required Strings :-
 
@@ -41,5 +41,5 @@
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
+* [DarkRubix](https://t.me/DarkRubix) For [AnydlBot](https://github.com/incmaanop/AnyDLBot)
+* [Dan](https://t.me/DarkRubix) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
