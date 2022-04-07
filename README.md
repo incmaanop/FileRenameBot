@@ -20,11 +20,11 @@
 
 ->**Demo Bots**
 
-➡️[BOT 1](https://t.me/DarkRubix)    
-➡️[BOT 2](https://t.me/DarkRubix)    
-➡️[BOT 3](https://t.me/DarkRubix)    
-➡️[BOT 4](https://t.me/DarkRubix)   
-➡️[BOT 5](https://t.me/DarkRubix)
+➡️[OFFICIAL CHANNEL](https://t.me/DarkRubix)    
+➡️[OFFICIAL CHANNEL](https://t.me/moviessearch_box)    
+➡️[DEVELOPED BY](https://t.me/DarkRubix)    
+➡️[OWNER](https://t.me/ninja_00p)   
+➡️[BOT](https://t.me/DarkRubix)
 
 
 # Deploy straight to Heroku!
